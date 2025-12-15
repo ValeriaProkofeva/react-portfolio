@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.Box {
+    width: 1440px;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 80px;
+    justify-content: center;
+    gap: 20PX;
+    display: flex;
+    flex-direction: column;
+}
+
+.BTN {
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 150PX;
+}
+
+.BoxP {
+    font-size: 20px;
+    color: rgb(92, 61, 44);
+}
+
+.Hiden {
+    font-size: 20px;
+    color: rgb(92, 61, 44);
+}
