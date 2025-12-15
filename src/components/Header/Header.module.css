@@ -1,0 +1,10 @@
+.contNav{
+    width: 1420px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.nav{
+    display: flex;
+    gap: 40px;
+}
